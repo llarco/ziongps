@@ -1,0 +1,7 @@
+{
+  "name": "ziongps",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/datastore": "0.8.0"
+  }
+}
